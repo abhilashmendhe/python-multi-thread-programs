@@ -30,6 +30,6 @@ We'll walkthough the foundations of mutlti-threaded programs using python.
     In **day 6**, we studied the concepts of <span style="background-color: #b8b8b8f1;">queue.Queue</span> where no _locks_ are required, and covered producer/consumer topic. 
     Simulated the same banking application only using queues(channels).
 
-7. [Day 7 - Mini project](https://github.com/abhilashmendhe/python-multi-thread-programs/tree/main/day7-mini-project)
+7. [Day 7 - Mini project 1](https://github.com/abhilashmendhe/python-multi-thread-programs/tree/main/day7-mini-project)
 
     In **day 7**, created a mini-project that simulates the actual restaurant operations. 
