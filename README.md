@@ -33,3 +33,7 @@ We'll walkthough the foundations of mutlti-threaded programs using python.
 7. [Day 7 - Mini project 1](https://github.com/abhilashmendhe/python-multi-thread-programs/tree/main/day7-mini-project)
 
     In **day 7**, created a mini-project that simulates the actual restaurant operations. 
+
+8. [Day 8 - Mini project 2](https://github.com/abhilashmendhe/python-multi-thread-programs/tree/main/day8-mini-project)
+
+    In **day 8**, created a file downloader with multiple threads using producer-consumer.
